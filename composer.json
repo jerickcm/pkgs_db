@@ -1,0 +1,19 @@
+{
+	"name": "jerickcm/pkgs_db",
+	"description": "\"Test Migration\"",
+	"autoload": {
+		"psr-4": {
+			"Jerickcm\\pkgs_db\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "jerick",
+			"email": "jmangaluz@gmail.com"
+		}
+	],
+	"require": {
+		"guzzlehttp/guzzle": "^7.5"
+	}
+
+}
