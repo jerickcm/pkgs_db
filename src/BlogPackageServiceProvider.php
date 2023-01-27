@@ -1,10 +1,7 @@
-
 <?php
 
-namespace Jerickcm\pkgs_db;
-
+namespace Jerickcm\Pkgsdb;
 use Illuminate\Support\ServiceProvider;
-
 class BlogPackageServiceProvider  extends ServiceProvider
 {
     public function register()

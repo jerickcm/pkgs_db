@@ -1,9 +1,9 @@
 {
-	"name": "jerickcm/pkgs_db",
+	"name": "jerickcm/Pkgsdb",
 	"description": "\"Test Migration\"",
 	"autoload": {
 		"psr-4": {
-			"Jerickcm\\pkgs_db\\": "src/"
+			"Jerickcm\\Pkgsdb\\": "src/"
 		}
 	},
 	"authors": [
